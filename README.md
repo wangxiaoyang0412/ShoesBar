@@ -1,2 +1,2 @@
 # Database
-A project from INFSCI 2710 Fall 2018
+The final project from INFSCI 2710 Fall 2018
